@@ -3,7 +3,7 @@ title: Vicky Vu
 subtitle: an Interactive Resume
 email: vuvu@ucsd.edu
 description: Welcome to my interactive resume and thank you for taking the time to check it out. Here you can find my skills and qualifications, as well as my blog. 
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "personal_brand" # the subpath of your site, e.g. /blog
 url: 
 author:
 street_address: 8759 Gilman Dr.
