@@ -1,0 +1,36 @@
+# site settings
+title: Vicky Vu 
+subtitle: an Interactive Resume
+email: vuvu@ucsd.edu
+description: Welcome to my interactive resume and thank you for taking the time to check it out. Here you can find my skills and qualifications, as well as my blog. 
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "VickyVu"
+author:
+street_address: 8759 Gilman Dr.
+city: La Jolla
+state: CA
+zip_code: 92037
+country: United States of America
+phone: (714) 833-6506
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: https://github.com/vuvicky141
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/vicky-vu-70b194152/
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
