@@ -77,7 +77,7 @@ nav-menu: true
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic17.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic16.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic15.jpg %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{assets/images/pic15.jpg %}" alt="" /></span></div>
 		
 </div>
 
