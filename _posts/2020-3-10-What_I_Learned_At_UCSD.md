@@ -5,4 +5,4 @@ description: A reflection of my undergraduate career.
 image: assets/images/pic12.jpg
 ---
 
-After 4 years at UCSD....
+After 4 years at UCSD
