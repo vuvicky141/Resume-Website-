@@ -1,7 +1,7 @@
 # site settings
 title: Vicky Vu 
 subtitle: an Interactive Resume
-email: vuvu@ucsd.edu
+email: vuvicky141@gmail.com
 description: Welcome to my interactive resume and thank you for taking the time to check it out. Here you can find my skills and qualifications, as well as my blog. 
 baseurl: "vicky1" # the subpath of your site, e.g. /blog
 url: 
