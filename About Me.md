@@ -16,3 +16,9 @@ nav-menu: true
     <iframe src="https://docs.google.com/gview?url=https://github.com/vuvicky141/vicky1/raw/gh-pages/Vicky_Vu%20.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
   </body>
 </html>
+
+
+
+
+<embed width="100%" height="100%" src="https://docs.google.com/gview?url=https://github.com/vuvicky141/vicky1/raw/gh-pages/Vicky_Vu%20.pdf&embedded=true" type="application/pdf" style="margin:0px;padding:0px;overflow:hidden;display:block;">
+
